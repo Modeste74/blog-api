@@ -64,12 +64,10 @@ uvicorn routes:app --reload
 
 <h3>🔐 Authentication Workflow</h3>
 <p>Use /register to create an account.</p>
-
 <p>Use /login to get a JWT token.</p>
-
 <P>Use that token in the Authorization header like:</p>
-<break>
 <p>Authorization: Bearer <your-token></p>
+
 
 <h3>📌 Future Improvements</h3>
 <ul>
