@@ -35,13 +35,13 @@
 <p>1. Clone the repo</p>
 
 <p>```bash
-git clone https://github.com/modeste74/blog-api.git
+git clone https://github.com/Modeste74/blog-api.git
 cd blog-api</p>
 
 <h3>Setting up the environment</h3>
 
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python3 -m venv name_of_env
+source venv/bin/activate  # On Linux: name_of_venv/bin/activate
 
 <h3>Install dependencies</h3>
 pip install -r requirements.txt
@@ -84,4 +84,4 @@ uvicorn routes:app --reload
 <p>Modeste Ciira</p>
 <p><strong>Backend Developer | Python & FastAPI Enthusiast</strong></p>
 
-<a>GitHub: modeste74</a>
+<a>GitHub: Modeste74</a>
