@@ -84,4 +84,4 @@ uvicorn routes:app --reload
 <p>Modeste Ciira</p>
 <p><strong>Backend Developer | Python & FastAPI Enthusiast</strong></p>
 
-<a>GitHub: Modeste74</a>
+<a href="https://github.com/Modeste74">GitHub: Modeste74</a>
